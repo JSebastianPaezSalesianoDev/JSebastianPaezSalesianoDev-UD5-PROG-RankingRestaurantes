@@ -48,7 +48,7 @@ public class Restaurante {
 
     @Override
     public String toString() {
-        return "Restaurante [nombre=" + this.nombre + ", localizacion=" + localizacion + ", horario=" + horario
+        return "Restaurante [nombre=" + nombre + ", localizacion=" + localizacion + ", horario=" + horario
                 + ", puntuacion=" + puntuacion + "]";
     }
 
